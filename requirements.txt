@@ -1,0 +1,14 @@
+scrapy
+scrapy-rotating-proxies
+requests
+pyppeteer
+pytz
+BeautifulSoup4
+pathos
+dateparser
+orjson
+Unidecode
+mysql-connector-python
+fuzzywuzzy
+python-Levenshtein
+
