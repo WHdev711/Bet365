@@ -11,4 +11,5 @@ Unidecode
 mysql-connector-python
 fuzzywuzzy
 python-Levenshtein
+scrapy-rotating-proxies
 
